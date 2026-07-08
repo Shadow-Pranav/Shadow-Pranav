@@ -209,21 +209,3 @@ I am especially interested in:
 
 ---
 
-## Profile Reality Check
-
-A strong profile is not built by adding fake words. It is built by making projects look complete:
-
-- add screenshots
-- add demo videos
-- add notebooks
-- add model metrics
-- add deployment links
-- add clean documentation
-
-That is the standard I am moving toward.
-
----
-
-<p align="center">
-  <strong>Data tells the story. Models find the pattern. Dashboards make it usable.</strong>
-</p>
