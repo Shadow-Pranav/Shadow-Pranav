@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Pranav Dubey — From data to decisions</title>
+  <desc id="desc">A midnight-blue banner with mint and lavender accents and a connected data, model, and application diagram.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1426"/><stop offset="1" stop-color="#18253c"/></linearGradient>
+    <linearGradient id="line"><stop stop-color="#6ee7b7"/><stop offset="1" stop-color="#b5a2ff"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#aec3e0" opacity=".10"/></pattern>
+  </defs>
+  <rect width="1200" height="380" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="380" rx="24" fill="url(#dots)"/>
+  <path d="M0 378H1200" stroke="url(#line)" stroke-width="4"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="52" y="44" width="210" height="30" rx="15" fill="#6ee7b7" fill-opacity=".10" stroke="#6ee7b7" stroke-opacity=".3"/>
+    <circle cx="70" cy="59" r="4" fill="#6ee7b7"/>
+    <text x="83" y="64" font-size="12" letter-spacing="2" font-weight="700" fill="#a7f3d0">BUILDING &amp; LEARNING</text>
+    <text x="52" y="130" fill="#f1f5f9" font-size="48" font-weight="750">Pranav Dubey</text>
+    <text x="52" y="198" fill="#f1f5f9" font-size="42" font-weight="700">From data</text>
+    <text x="52" y="248" fill="#6ee7b7" font-size="42" font-weight="700">to decisions.</text>
+    <text x="54" y="294" fill="#c0cde0" font-size="18">Analytics, AI &amp; business applications.</text>
+    <text x="54" y="337" fill="#94a9c5" font-size="13" letter-spacing="2">@SHADOW-PRANAV</text>
+    <rect x="658" y="52" width="490" height="276" rx="18" fill="#0b1222" stroke="#34435b"/>
+    <circle cx="680" cy="75" r="4" fill="#6ee7b7"/><circle cx="695" cy="75" r="4" fill="#b5a2ff"/><circle cx="710" cy="75" r="4" fill="#60738f"/>
+    <text x="1124" y="80" text-anchor="end" fill="#9eacc1" font-size="12" letter-spacing="2">THE PROJECT LAB</text>
+    <path d="M680 96H1126" stroke="#29384f"/>
+    <path d="M783 177H856M950 177H1020" stroke="url(#line)" stroke-width="3" stroke-dasharray="5 5"/>
+    <rect x="689" y="133" width="96" height="88" rx="14" fill="#163331" stroke="#498577"/>
+    <path d="M714 178v-17m14 17v-25m14 25v-10m14 10v-32" stroke="#8cf0c8" stroke-width="6" stroke-linecap="round"/>
+    <text x="737" y="206" text-anchor="middle" fill="#c1f7e0" font-size="12" font-weight="600">DATA</text>
+    <rect x="856" y="133" width="96" height="88" rx="14" fill="#292645" stroke="#76659c"/>
+    <path d="M879 158L904 174L928 154M879 183L904 174L928 185" stroke="#c4b5fd" stroke-width="2"/>
+    <g fill="#c4b5fd"><circle cx="879" cy="158" r="4"/><circle cx="879" cy="183" r="4"/><circle cx="904" cy="174" r="6"/><circle cx="928" cy="154" r="4"/><circle cx="928" cy="185" r="4"/></g>
+    <text x="904" y="206" text-anchor="middle" fill="#e0d6ff" font-size="12" font-weight="600">MODELS</text>
+    <rect x="1020" y="133" width="96" height="88" rx="14" fill="#183147" stroke="#4f7c9b"/>
+    <rect x="1042" y="150" width="52" height="35" rx="4" fill="none" stroke="#a5d9f8" stroke-width="2"/>
+    <path d="M1043 160h50m-34 1v23" stroke="#a5d9f8" stroke-width="2"/>
+    <text x="1068" y="206" text-anchor="middle" fill="#c7e7fb" font-size="12" font-weight="600">APPS</text>
+    <text x="691" y="264" fill="#e0e8f4" font-size="17" font-weight="600">Explore. Build. Understand.</text>
+    <text x="691" y="292" fill="#9eacc1" font-size="14">NLP / fraud analytics / business systems</text>
+  </g>
+</svg>
